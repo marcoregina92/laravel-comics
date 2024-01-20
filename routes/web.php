@@ -14,8 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    $msg = "Welcome";
-    $title = "Laravel comics";
+    $title = "DC Comics";
 
-    return view('home', compact("msg", "title"));
+    return view('home', compact("title"));
 });
