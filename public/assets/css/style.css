@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HEADER STYLE */
+.linkItem {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 800;
+    color: #474646;
+}
