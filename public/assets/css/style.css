@@ -11,3 +11,13 @@
     font-weight: 800;
     color: #474646;
 }
+
+
+/* JUMBOTRON */
+
+.jumbotron {
+    height: 450px;
+    background-size: cover;
+    background-image: url("/assets/images/jumbotron.jpg");
+    margin-top: 20px;
+}
