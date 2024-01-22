@@ -11,7 +11,11 @@
 <body>
 
     @include('partials.header')
+
     @include('partials.jumbotron')
+
+    @include('partials.currentSeries')
+
 
     
     @yield('content')
